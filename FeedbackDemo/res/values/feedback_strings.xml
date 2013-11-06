@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">意见反馈</string>
+    <string name="feedback_contact_hint">联系方式:邮箱/QQ/手机号</string>
+    <string name="feedback_content_hint">请输入您的反馈意见</string>
+    <string name="submit">提交</string>
+    <string name="mock_record_first">常见的音乐随机播放算法主要有两种：一是Shuffle算法；二是Random算法</string>
+    <string name="mock_record_second">开源项目几乎都使用版本控制系统来对代码进行维护，著名的版本控制软件有诸如CVS、Rational ClearCase、Microsoft Visual SourceSafe、Git、Subversion、Mercurial等等</string>
+    <string name="feedback_record">反馈记录</string>
+    <string name="request_content">请输入反馈的意见</string>
+    <string name="waiting">正在处理，请稍等片刻…</string>
+    <string name="feedback_success">发送成功</string>
+    <string name="feedback_failed">发送失败</string>
+
+</resources>
